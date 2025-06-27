@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <main>
-    <h1>Home</h1>
-  </main>
+  <div class="home">
+    <h1>这里起源于一段儿时记忆</h1>
+  </div>
 </template>
